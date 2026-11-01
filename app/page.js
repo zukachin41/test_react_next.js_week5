@@ -63,6 +63,10 @@ export default function Home() {
             Documentation
           </a>
         </div>
+        <ul>
+        <li>Save and see your changes instantly.</li>
+        <li>こんにちは</li>
+        </ul>
       </main>
     </div>
   );
